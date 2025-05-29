@@ -1,1 +1,4 @@
 b_statistical_mechanics/ filter=lfs diff=lfs merge=lfs -text
+b_electrochemistry filter=lfs diff=lfs merge=lfs -text
+b_quantum_chemistry_and_density_functional_theory filter=lfs diff=lfs merge=lfs -text
+b_solid_state_physics filter=lfs diff=lfs merge=lfs -text
